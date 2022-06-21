@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm Shobhit(sho_buntu) certified Azure developer working as SSE in Infosys.
+I'm Shobhit, certified Azure developer working as a SSE with Infosys.
 What i'm working on:
-
-- 🔭 I’m currently working on @Azure and microservises based on java and python.
-- 🤞 I'm currently learning DevOps technologies and how to design scalable distributed systems.
+- 🔭 I’m working on Azure and microservice based architechture since two years.
+- 🤞 currently learning DevOps technologies and have interest in "design scalable distributed systems"
