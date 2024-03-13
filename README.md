@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Shobhit, certified Azure developer.
-What i'm working on:
-- 🔭 I’m working on Azure and web-apps native cloud based architechture since two years.
-- 🤞 Currently learning DevOps and have a interest in "designing scalable distributed systems"  
+I'm Shobhit, a certified Azure developer.
+What I'm working on:
+- 🔭 I have spearheaded the development of a cutting-edge cloud-native enterprise application on Azure for two years.
+- 🤞 Currently learning Data science and have an interest in "designing scalable distributed systems"  
